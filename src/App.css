@@ -1,0 +1,32 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin-top: 100px;
+}
+
+.apexcharts-tooltip {
+  color: black;
+  transform: translateX(0px) translateY(-90px);
+}
+
+.arrow_box {
+  display: flex;
+  flex-direction: column;
+  padding: 12px;
+  background: white;
+}
+
+.tooltip_data {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.tooltip_pages {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
